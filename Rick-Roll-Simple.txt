@@ -9,10 +9,11 @@ REM ############################################################################
 DELAY 10
 LED ON
 HOTKEY GUI R
-DELAY 100
+DELAY 500
 STRING cmd.exe
 PRESS ENTER
-DELAY 500
+DELAY 1000
 STRING start https://youtu.be/dQw4w9WgXcQ
 PRESS ENTER
+DELAY 1000
 LED OFF
