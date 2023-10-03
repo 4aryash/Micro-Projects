@@ -1,2 +1,3 @@
 # Micro-Projects
-Stuff I like to do on the microcontrollers I have!
+Experimenting with the microcontrollers I have!
+Raspberry Pi Pico • ESP32s • Arduino Uno
