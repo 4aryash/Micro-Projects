@@ -1,0 +1,18 @@
+REM This is an example of a simple execution of a Bad USB
+REM Delay gives a pause of .01s before turning the LED on and Running the Hotkeys Windows+R
+REM Then a delay of .1s launches the command prompt cmd.exe and presses enter
+REM A delay of .5s before entering the string in the cmd for starting a youtube video
+REM Hitting enter for the command execution
+REM #
+REM #####################################################################################
+
+DELAY 10
+LED ON
+HOTKEY GUI R
+DELAY 100
+STRING cmd.exe
+PRESS ENTER
+DELAY 500
+STRING start https://youtu.be/dQw4w9WgXcQ
+PRESS ENTER
+LED OFF
