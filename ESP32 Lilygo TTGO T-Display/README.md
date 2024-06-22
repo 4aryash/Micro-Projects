@@ -16,8 +16,8 @@ https://youtu.be/b8254--ibmM?si=lmYXBd2JqC5Z2a9K<br> <br>
   <li>Select the corresponding port (if you're not sure of the port - go to Device Manager in Control Panel > Drop open the Ports tab and you'll see a list of all communication ports active on your machine > Unplug your Lilygo TTGO T-Display and check which COM port got disconnected. In my case, it was <code>USB-Enhanced-SERIAL CH9102 (COM14)</code></li>
   <li>Now go back to your Arduino IDE and select the correct board and port.</li>
   <li>To test the whole setup, click on File>Examples>TFT_eSPI (Scroll to the bottom)>160 x 128>TFT_Print_Test</li>
-  <li>Compile and Upload the code, and your display should look like this below</li>
-  <img src="https://github.com/4aryash/Micro-Projects/assets/31902160/5b1ca434-ee71-400f-aada-3ed5786894c0"/>
+  <li>Compile and Upload the code, and your display should look like this below</li><br>
+  <img src="https://github.com/4aryash/Micro-Projects/assets/31902160/5b1ca434-ee71-400f-aada-3ed5786894c0" width="200"/>
 </ol> <br><br>
 
 <p>It took me a while to setup my board because I found out that Espressif recently rolled out a new version 3.0 of their board manager, and I was on the 3.0.1 version (which gave me multiple compiling errors).
