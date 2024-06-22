@@ -1,8 +1,8 @@
 ## Initial Setup Process for ESP32 Lilygo TTGO T-Display
 <br>
 
-<p>Links I used to get started</p>
-<a href= "https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board">Link to the board</a>
+<p>Links I used to get started</p> <br>
+<a href= "https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board">Link to the board</a> <br>
 https://www.reddit.com/r/esp32/comments/vlxpl7/readymade_projects_for_lilygo_ttgo_tdisplay/ <br>
 https://youtu.be/b8254--ibmM?si=lmYXBd2JqC5Z2a9K<br> <br>
 
