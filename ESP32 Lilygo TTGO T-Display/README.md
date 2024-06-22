@@ -1,7 +1,7 @@
-## Initial Setup Process for ESP32 Lilygo TTGO T-Display
+#Initial Setup Process for ESP32 Lilygo TTGO T-Display
 <br>
 
-<p>Links I used to get started</p>
+####Links I used to get started
 https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board <br>
 https://www.reddit.com/r/esp32/comments/vlxpl7/readymade_projects_for_lilygo_ttgo_tdisplay/ <br>
 https://youtu.be/b8254--ibmM?si=lmYXBd2JqC5Z2a9K<br> <br>
@@ -10,5 +10,6 @@ https://youtu.be/b8254--ibmM?si=lmYXBd2JqC5Z2a9K<br> <br>
 At this time, switching back to the 2.17 version solved my problem and gave me immense relief from digging the internet for 2 days to get my display running. <br>
 Thanks to this article - https://github.com/Bodmer/TFT_eSPI/issues/3346
 <br><br>
-Key Takeaway - Always google your compilation errors if you can't understand what they mean. You're not the first one, and there's almost always someone else who's encountered it before you.
+
+#####Key Takeaway - Always google your compilation errors if you can't understand what they mean. You're not the first one, and there's almost always someone else who's encountered it before you.
 </p>
