@@ -1,4 +1,4 @@
 # Micro-Projects
 Experimenting with the microcontrollers I have!
 <br>
-Raspberry Pi 5 and Pi Pico • ESP32s • Arduino Uno
+Rasp-Pi 5 • Rasp-Pi Pico • ESP32 (Wroom) • ESP32 Lilygo T-Display • Arduino Uno
