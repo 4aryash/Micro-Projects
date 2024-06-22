@@ -1,13 +1,13 @@
 # Initial Setup - ESP32 Lilygo TTGO T-Display
 
-#### Links I used to get started
+#### Links to get started
 <ul>
 <li>https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board</li>
 <li>https://www.reddit.com/r/esp32/comments/vlxpl7/readymade_projects_for_lilygo_ttgo_tdisplay/</li>
 <li>https://youtu.be/b8254--ibmM?si=lmYXBd2JqC5Z2a9K</li>
 </ul>
 
-#### Steps to get started (Windows):
+#### Steps for Setup on Windows:
 <ul>
   <li>Download the Arduino IDE</li>
   <li>Go to File>Preferences>Additional Boards Manager URLs and enter "https://dl.espressif.com/dl/package_esp32_index.json".</li>
