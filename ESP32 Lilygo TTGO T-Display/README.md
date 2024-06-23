@@ -34,11 +34,11 @@ Thanks to this article - https://github.com/Bodmer/TFT_eSPI/issues/3346
 <ol>
   <li><b>Scan-WiFi-Networks.ino</b></li>
   <ul>
-    <li>Displays Total Access Points detected, SSID, RSSI, and BSSID of nearby Wireless Networks.</li>
+    <li>Displays Total Access Points detected, SSID, RSSI, and BSSID of nearby Wireless Networks.</li><br>
     <ul>
-      <li>SSID - Service Set Identifier AKA WiFi Name, or the human-readable name assigned to a wireless access point to search on a user's device.</li>
-      <li>BSSID - Basic Service Set Identifier AKA MAC Address, or the Unique identifier address that distinguishes access points of different routers on a network.</li>
-      <li>RSSI - Received Signal Strength Indicator ie. the strength of the power level that a phone/computer receives from a wireless signal. These are -ve numbers. So the higher the number, the better its strength.</li>
+      <li><b>SSID</b> - Service Set Identifier AKA WiFi Name, or the human-readable name assigned to a wireless access point to search on a user's device.</li>
+      <li><b>BSSID</b> - Basic Service Set Identifier AKA MAC Address, or the Unique identifier address that distinguishes access points of different routers on a network.</li>
+      <li><b>RSSI</b> - Received Signal Strength Indicator ie. the strength of the power level that a phone/computer receives from a wireless signal. These are -ve numbers. So the higher the number, the better its strength.</li>
       <br>
       <img src="https://github.com/4aryash/Micro-Projects/assets/31902160/6048fef9-3be7-4e3f-8a0a-1859e0772390" width="500"/>
     </ul>
