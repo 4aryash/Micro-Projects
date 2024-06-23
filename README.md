@@ -1,5 +1,5 @@
 # Micro-Projects
-Experimenting with the microcontrollers and dev-boards I have!
+Experimenting with the various development boards, microcontrollers, and related electronic components I have!
 <br>
 Rasp-Pi 5 • Rasp-Pi Pico • ESP32 (Wroom) • ESP32 Lilygo TTGO T-Display • Arduino Uno
 <br><br>
