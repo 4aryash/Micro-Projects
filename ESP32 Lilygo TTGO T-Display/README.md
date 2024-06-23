@@ -28,3 +28,17 @@ Thanks to this article - https://github.com/Bodmer/TFT_eSPI/issues/3346
     
 #### Key Takeaway
 <p>Always google your compilation errors. There's almost always someone else who's encountered it before you.</p> <br>
+
+
+#### Screenshots of above Sample Codes
+<ol>
+  <li>Scan-WiFi-Networks.ino</li>
+  <ul>
+    <li>Displays Total Access Points detected, SSID, RSSI, and BSSID of nearby Wireless Networks.</li>
+    <ul>
+      <li>SSID</li>
+      <li>RSSI</li>
+      <li>BSSID</li>
+    </ul>
+  </ul>
+</ol>
