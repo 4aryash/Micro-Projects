@@ -30,15 +30,15 @@ Thanks to this article - https://github.com/Bodmer/TFT_eSPI/issues/3346
 <p>Always google your compilation errors. There's almost always someone else who's encountered it before you.</p> <br>
 
 
-#### Screenshots of above Sample Codes
+# Screenshots of Codes in this Repo
 <ol>
-  <li>Scan-WiFi-Networks.ino</li>
+  <li><b>Scan-WiFi-Networks.ino</b></li>
   <ul>
     <li>Displays Total Access Points detected, SSID, RSSI, and BSSID of nearby Wireless Networks.</li>
     <ul>
-      <li>SSID</li>
-      <li>RSSI</li>
-      <li>BSSID</li>
+      <li>SSID - Service Set Identifier AKA WiFi Name, or the human-readable name assigned to a wireless access point to search on a user's device.</li>
+      <li>BSSID - Basic Service Set Identifier AKA MAC Address, or the Unique identifier address that distinguishes access points of different routers on a network.</li>
+      <li>RSSI - Received Signal Strength Indicator ie. the strength of the power level that a phone/computer receives from a wireless signal. These are -ve numbers. So the higher the number, the better its strength.</li>
     </ul>
   </ul>
 </ol>
