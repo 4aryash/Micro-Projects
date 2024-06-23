@@ -39,7 +39,7 @@ Thanks to this article - https://github.com/Bodmer/TFT_eSPI/issues/3346
       <li>SSID - Service Set Identifier AKA WiFi Name, or the human-readable name assigned to a wireless access point to search on a user's device.</li>
       <li>BSSID - Basic Service Set Identifier AKA MAC Address, or the Unique identifier address that distinguishes access points of different routers on a network.</li>
       <li>RSSI - Received Signal Strength Indicator ie. the strength of the power level that a phone/computer receives from a wireless signal. These are -ve numbers. So the higher the number, the better its strength.</li>
-      <img src="https://github.com/4aryash/Micro-Projects/assets/31902160/a7504f6b-4f7f-40d3-aea8-70bab350088b" width="500"/>
+      <img src="https://github.com/4aryash/Micro-Projects/assets/31902160/6048fef9-3be7-4e3f-8a0a-1859e0772390" width="500"/>
     </ul>
   </ul>
 </ol>
